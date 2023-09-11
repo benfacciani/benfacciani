@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben Facciani
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on resume building programs
+- 💞️ I have a strong work ethic and determination to succeed
 - 📫 Reach me at benfacc@vt.edu
 
 <!---
