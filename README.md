@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben Facciani
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning back-end development with a focus on machine learning
-- 💞️ I have a strong work ethic and determination to succeed
+- 💞️ I have a strong work ethic and and communication skills
 - 📫 Reach me at benfacc@vt.edu
 
 <!---
